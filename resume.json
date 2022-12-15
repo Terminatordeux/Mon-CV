@@ -1,0 +1,418 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Vincent TORDEUX",
+    "label": "Full stack developer - symfony - CMS",
+    "image": "",
+    "email": "vincent.tordeux@gmail.com",
+    "phone": "07 82 82 75 71",
+    "url": "",
+    "summary": "Passionné par la programmation\rinformatique et l'impression 3D, je suis en veille permanente sur les nouveaux outils\ret méthodologies. Comprendre une\rproblématique donnée, rechercher\ret mettre en place de nouveaux\rcanaux sont les moteurs qui me permettent de relever et accomplir\rles défis dans une optique\rd'amélioration continue.",
+    "location": {
+      "countryCode": "FR",
+      "address": "Toulouse"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "vincent-tordeux",
+        "url": "https://www.linkedin.com/in/vincent-tordeux/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Développement Web Front & Back et Cybersécurité",
+      "position": "Développement Front Back End ",
+      "startDate": "2022-03-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Développement web Html5.\nexpert de la conception web UX/UI sur-mesure.\nConception, modélisation.\nHtml5, Css, Bootstrap, Scss, J-S.\nWordPress",
+      "url": "https://github.com/Terminatordeux",
+      "location": "Toulouse, Occitanie, France"
+    },    
+    {
+      "name": "Annexx Business Service - Louez des boxes partout en France",
+      "position": "Sales Business Development",
+      "startDate": "2017-07-31",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "Je crois que fournir des espaces de stockage pour ses salariés partout en France devrait être simple et la gestion de ces espaces encore plus simple.\n\nGrâce à notre réseau de plus de 400 bâtiments à travers la France, je loue un ou plusieurs espaces de stockage de 1 à 100 m², de manière souple et sans engagement de durée. Je gère pour vous ces espaces de self stockage et vous recevez une facture unique.\n\n• vos collaborateurs peuvent utiliser du matériel de manutention mis à disposition\n• ils peuvent aussi accéder à leurs boxes en permanence\n• vos entrepôts de stockage sont surveillés 24h/7j\n• vous pouvez bénéficier d’un service garanti de réception de matériels et de marchandises\n\nInformations : 07 63 47 25 97",
+      "url": "https://www.linkedin.com/company/annexx-business-service/",
+      "location": "Toulouse, Midi-Pyrénées, France"
+    },
+    {
+      "name": "Flexi Stockage",
+      "position": "Directeur de site",
+      "startDate": "2016-08-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "summary": "Société de location de box en self-stockage, location de bureaux et domiciliation d'entreprise. \nLe site Flexistockage d'Argenteuil est l'un des trois plus grand site de stockage d'Europe.\n\nEntrepôt de 12 000 m2 , 10 personnes , plus de 1000 clients professionnels et particuliers\n\n Piloter l'équipe commerciale, \n Piloter le budget et CA au quotidien\n Prospecter, accompagner et gérer les clients grands comptes \n Formaliser et faire appliquer les modes opératoires et process \n Organiser et piloter les procédures de recouvrement judiciaires\n     Organiser les ventes suites à procédure judiciaires\n Mettre en place une organisation optimale afin d’absorber les volumes \n Recruter le personnel en fonction des volumes présents et futurs \n Créer et suivre la relation client : proposer des améliorations, être proactif et force de propositions\n Définir des plans d’actions par service dans l’optique d’une amélioration continue \n Satisfaire le client en tenant compte des coûts, délais, qualité, sécurité. \n Recherche de partenariats afin de linéariser les entrées/sorties\n     Gestion et entretient du site",
+      "url": "https://www.linkedin.com/company/flexi-stockage/",
+      "location": "Argenteuil"
+    },
+    {
+      "name": "C&r formation",
+      "position": "Consultant en Stratégie Commerciale et Marketing / Développement portefeuille Clients",
+      "startDate": "2015-12-31",
+      "endDate": "2016-11-30",
+      "highlights": [],
+      "summary": "Formation adultes\n\n- Initiation/Perfectionnement techniques Commerciales, Marketing & Management générales\n- Mise en place de stratégie commerciales et marketing \n- Veille concurrentielle / réponse au grands appels d'offres\n- Adaptation aux nouveaux supports ; applications IOS, ANDROID, WEB\n- Application de la Législation et droit du transport de personnes\n- Etude de la commercialisation des biens et services de luxe à destination B2B B2C",
+      "url": ""
+    },
+    {
+      "name": "Pi-conciergerie",
+      "position": "Dirigeant / Directeur clientèle",
+      "startDate": "2014-09-30",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "summary": "Société spécialisée dans la conciergerie privée et le transport de luxe à destination de clientèle exclusive à haut niveau de sécurité.\n\n- Appel de fond et étude de marché / veille concurrentielle\n- Etablissement de partenariat et adhésion à un collectif d'entreprises partenaires\n- Recrutement / Formation / Suivi de collaborateurs ponctuels\n- Mise en place de la Stratégie Commerciale et Marketing\n- Construction des business plans clients et réponses aux grands appels d'offres\n- Organisation événementielle et mise en place de la Stratégie Sécurité lors d'événements et visites officielles pour Hautes Personnalités en collaboration avec les pouvoirs publics et forces de police\n- Fidélisation et développement des comptes clients Internationaux",
+      "url": ""
+    },
+    {
+      "name": "British Embassy Paris",
+      "position": "Security driver on sheltered vehicules",
+      "startDate": "2015-01-31",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "summary": "Security Driver.\nSpécialisé en conduite sécurisé pour personnalités nécessitant une protection particulière.\nTravail en collaboration avec le Service de Protection des Hautes Personnalités \nSDLP Police Nationale.\nSuivi d'itinéraires sécurisés.\nAccès à des lieux stratégiques.\nRoulage sur tarmac.\nConvois et protocoles.",
+      "url": "https://www.linkedin.com/company/british-embassy-paris/"
+    },
+    {
+      "name": "Ferrari Group",
+      "position": "Transport sécurisé",
+      "startDate": "2014-09-30",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Transport de produits de luxe et œuvres d'art à haut niveau de sécurité.\n\n\n- Recrutement / Formation / Suivi de collaborateurs ponctuels\n- Mise en place de la Stratégie Sécurité et Confidentialité\n- Construction des business plans clients\n- Organisation événementielle et mise en place de la Stratégie Sécurité lors d'événements et transports exceptionnels à haut niveau de sécurité en collaboration avec les pouvoirs publics et forces de police",
+      "url": "https://www.linkedin.com/company/ferrari-group/"
+    },
+    {
+      "name": "DORCEL",
+      "position": "Assistant particulier, concierge, chauffeur de maitre",
+      "startDate": "2014-01-31",
+      "endDate": "2014-11-30",
+      "highlights": [],
+      "summary": "Chauffeur de maître, concierge et assistant personnel pour la famille et la société de production.",
+      "url": "https://www.linkedin.com/company/marc-dorcel-sa/",
+      "location": "Ville de Paris, Île-de-France, France"
+    },
+    {
+      "name": "LeCab",
+      "position": "Directeur de la Relation Clients et Grands Comptes / Responsable du Parc Automobile achat entretien ",
+      "startDate": "2012-01-31",
+      "endDate": "2014-01-31",
+      "highlights": [],
+      "summary": "Opérateur web et application mobile de mise en relation de transporteurs de personnes à destination des professionnels et particuliers\n\n\n- Relation et service clientèle\n- Mise en place des stratégies qualité\n- Recrutement, Management, Formation et suivi de unités opérationnelles (chauffeurs partenaires, commerciaux)\n- Mise en place de la Stratégie Commerciale et Marketing, WEB, réponse aux grands appels d'offres\n- Appel de fond et étude de marché / veille concurrentielle\n- Fidélisation et développement des comptes clients (B2B B2C)\n- Responsable du parc automobile \n- Gestion de la relation constructeur automobile, assurances et accessoires\n\nFormation adultes\n\n- Initiation/Perfectionnement techniques Commerciales, Marketing & Management générales\n- Mise en place de stratégie commerciales et marketing \n- Veille concurrentielle / réponse au grands appels d'offres\n- Adaptation aux nouveaux supports ; applications IOS, ANDROID, WEB\n- Application de la Législation et droit du transport de personnes\n- Etude de la commercialisation des biens et services de luxe à destination B2B B2C",
+      "url": "https://www.linkedin.com/company/lecab/",
+      "location": "Région de Paris, France"
+    },
+    {
+      "name": "Uber",
+      "position": "Consultant en implantation, management des chauffeurs, et adaptation au marché parisien",
+      "startDate": "2011-11-30",
+      "endDate": "2012-09-30",
+      "highlights": [],
+      "summary": "UBER - Opérateur WEB et application mobile de mise en relation des transporteurs de personnes à destination des professionnels et particuliers\n\nConseil et management opérationnel pour l'implantation de la nouvelle entreprise UBER avec le succès que nous lui connaissons aujourd'hui\n\n- Adaptation de la stratégie commerciales et marketing à destination du marché parisien\n- Application de la Législation et droit du transport de personnes\n- Etude de la commercialisation des services de luxe à destination B2B B2C",
+      "url": "https://www.linkedin.com/company/uber-com/"
+    },
+    {
+      "name": "reder - l'homme moderne",
+      "position": "Directeur de point de vente flagship",
+      "startDate": "2010-09-30",
+      "endDate": "2011-09-30",
+      "highlights": [],
+      "summary": "Enseigne de distribution de Prêt-à-Porter et accessoires de luxe et moyenne gamme pour clientèle senior\n\n- Relation et service clientèle\n- Mise en place des stratégies qualité\n- Recrutement, Management, Formation et suivi de unités commerciales\n- Mise en place de la Stratégie Commerciale et Marketing\n- Veille concurrentielle\n- Fidélisation et développement des comptes clients\n- Gestion budget\n- Gestion et roulement du stocks",
+      "url": "https://www.linkedin.com/company/reder---l'homme-moderne/"
+    },
+    {
+      "name": "SFR",
+      "position": "Directeur Opérationnel de  centre d'appel / service client / téléprospection",
+      "startDate": "2009-07-31",
+      "endDate": "2010-09-30",
+      "highlights": [],
+      "summary": "Management, pilotage, recrutement et formation pour le service \"Résiliation de SFR\"\n\n\n- Relation et service clientèle\n- Mise en place des stratégies commerciales, marketing et qualité\n- Recrutement, Management, Formation et suivi de unités commerciales\n- Création des offres et opérations commerciales\n- Veille concurrentielle\n- Fidélisation et développement des comptes clients",
+      "url": "https://www.linkedin.com/company/sfr/"
+    },
+    {
+      "name": "Tél and Com",
+      "position": "Directeur de point de vente multi opérateur",
+      "startDate": "2007-01-31",
+      "endDate": "2009-05-31",
+      "highlights": [],
+      "summary": "Enseigne de distribution d'appareils et accessoires de téléphonie mobile et High-Tech\n\nManagement d'une équipe de 11 vendeurs.\n\n- Relation et service clientèle\n- Mise en place des stratégies qualité\n- Recrutement, Management, Formation et suivi de unités commerciales\n- Mise en place de la Stratégie Commerciale et Marketing\n- Veille concurrentielle\n- Fidélisation et développement des comptes clients\n- Gestion budget\n- Gestion et roulement du stocks \n- Veille technologique",
+      "url": "https://www.linkedin.com/company/t-l-and-com/",
+      "location": "Rodez"
+    },
+    {
+      "name": "Espace culturel Leclerc",
+      "position": "Responsable de rayon ",
+      "startDate": "2005-01-31",
+      "endDate": "2007-01-31",
+      "highlights": [],
+      "summary": "Enseigne de distribution d'appareils et accessoires Multimédia, High-Tech, culturel\n\nDirecteur des ventes et management des unités commerciales Multimédia, High-Tech\n\nManagement d'une équipe de 5 vendeurs\n\n- Relation et service clientèle\n- Mise en place des stratégies qualité\n- Recrutement, Management, Formation et suivi de unités commerciales\n- Mise en place de la Stratégie Commerciale et Marketing\n- Veille concurrentielle\n- Fidélisation et développement des comptes clients\n- Gestion budget\n- Gestion et roulement du stocks \n- Veille technologique",
+      "url": "",
+      "location": "RODEZ"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Adrar Digit@l Academy, Pôle Numérique de l'ADRAR",
+      "area": "Developpement Web & Web mobile",
+      "studyType": "Titre professionel de niveau 5 Dev Web & Web Mobile, Conception, Développeur et Cybersécurité",
+      "startDate": "2021-12-31",
+      "endDate": "2022-12-31",
+      "score": "Tp 5 optenu, et 1ère Capacité CDA niveau 6 obtenu",
+      "courses": []
+    },
+    {
+      "institution": "CEDEC RODEZ",
+      "area": "Science des Techniques tertiaires option informatique de gestion des entreprises",
+      "studyType": "Baccalauréat Science des Techniques tertiaires option informatique de gestion des entreprises",
+      "startDate": "1999-12-31",
+      "endDate": "2001-12-31",
+      "score": "Obtenu mention Bien",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Jean Moulin - Béziers",
+      "area": "Informatique et Gestion option développeur d'applications",
+      "studyType": "BTS Science des Techniques tertiaires option informatique de gestion des entreprises",
+      "startDate": "2001-12-31",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    },
+    
+    {
+      "institution": "CCI rodez",
+      "area": "Force de Vente et management des unités commerciales",
+      "studyType": "BTS",
+      "startDate": "2001-12-31",
+      "endDate": "2003-12-31",
+      "score": "obtenu avec félicitations du jury",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Consulting en management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stratégie de commercialisation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Articles de luxe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-commerce",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Formation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Formation et développement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Relations publiques",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement commercial",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Commerce de détail",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Français",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Législation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vente",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "strategie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Merchandising",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stratégie marketing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stratégie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion d'équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Stratégie commerciale",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coaching",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Marketing Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Négociations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service client",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Illustrator",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anglais",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Services de conciergerie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Change Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Réseaux sociaux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales Manager",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Full Professional",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Espagnol"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Français"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
